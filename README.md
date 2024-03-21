@@ -1,2 +1,2 @@
 # scripts
-scripts for AWS services
+scripts for random things
