@@ -1,0 +1,1 @@
+Filters your AMIs and deregisters all AMIs that are older than 90 days
