@@ -1,4 +1,4 @@
-#Scripts related to the Amazon phonetool
+# Scripts related to the Amazon phonetool
 
 claimCommunities.py allows you to go through the list of communities and claim all communities that have no owner
 
