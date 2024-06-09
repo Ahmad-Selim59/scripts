@@ -33,7 +33,7 @@ def extract_csrf_token(session, url):
 
 def list_and_join_communities(session):
     base_url = 'https://phonetool.amazon.com/communities'
-    page = 1258
+    page = 1
 
     while True:
         community_ids = []
