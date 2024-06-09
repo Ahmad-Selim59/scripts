@@ -59,7 +59,7 @@ def fetch_award_details(session, link):
 
 def list_awards(session):
     base_url = 'https://phonetool.amazon.com/awards'
-    page = 2
+    page = 1
     awards = []
 
     while True:
